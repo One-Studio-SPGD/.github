@@ -8,10 +8,10 @@
 
 # ‧₊˚✧[Игры]✧˚₊‧
 
-<a href="https://github.com/One-Studio-SP/Old-Horizons">
+<a href="https://github.com/One-Studio-SPGD/Old-Horizons">
   <img width="640" height="640" alt="Old Horizons" src="https://github.com/user-attachments/assets/83a45d4f-24b4-4619-a8ba-2942d0d6e7f2" />
 </a>
-<a href="https://github.com/One-Studio-SP/Schizo-Ball">
+<a href="https://github.com/One-Studio-SPGD/Schizo-Ball">
   <img width="640" height="640" alt="Шизо-Шар" src="https://github.com/user-attachments/assets/eabe6f6a-f3e4-4577-a822-98024bb14495" />
 </a>
 
